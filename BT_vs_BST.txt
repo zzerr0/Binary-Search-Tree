@@ -1,0 +1,21 @@
+BINARY TREE : 
+-A tree whose elements have at most 2 children 
+ is called a binary tree. 
+-A binary tree does not have a specific order 
+ to arrange the data elements. 
+-A binary tree is used as an efficient lookup of 
+ data and information in a tree structure.
+-A binary search tree has no specific order to 
+ arrange the data elements. 
+
+
+BINARY SEARCH TREE :
+-The binary search tree is a binary tree where 
+the left child contains only nodes with values 
+less than or equal to the parent node, and where 
+the right child only contains nodes with values 
+greater than the parent node.
+-A binary search tree has a specific order to 
+arrange the data elements.
+-A binary search tree is used for inserting, 
+ deleting and searching the data.
